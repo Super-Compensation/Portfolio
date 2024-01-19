@@ -1,6 +1,6 @@
 This Sports and Performance Science Portfolio includes 3 projects:
 
-Project 1: Volleyball anual report – National University of La Matanza
+Project 1: Volleyball annual report – National University of La Matanza
   Tools: Excell, Powerpoint, Jamovi (R)
   Dataset: Real volleyball data
 
